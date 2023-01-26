@@ -16,8 +16,8 @@
     </header>
     <main>
         <section id="about">
-            <h1>About Example School</h1>
-            <p>Welcome to Example School! We are a dedicated team of educators committed to providing the best education for our students.</p>
+            <h1>shibgonj govt model high school</h1>
+            <p>Welcome our school! We are a dedicated team of educators committed to providing the best education for our students.</p>
         </section>
         <section id="programs">
             <h1>Our Programs</h1>
@@ -30,9 +30,9 @@
         <section id="staff">
             <h1>Our Staff</h1>
             <ul>
-                <li>Principal: Jane Smith</li>
-                <li>Vice Principal: John Doe</li>
-                <li>Teacher: Sarah Johnson</li>
+                <li>Principal: harun chacha</li>
+                <li>Vice Principal: samim sir ji</li>
+                <li>Teacher: roton baba</li>
             </ul>
         </section>
     </main>
@@ -46,7 +46,7 @@
     <footer>
         <p>Copyright Example School</p>
         <nav>
-            <a href="#facebook">Facebook</a>
+            <a href="facebook.com/shibgonj govt model high school"</a>
             <a href="#twitter">Twitter</a>
             <a href="#instagram">Instagram</a>
         </nav>
